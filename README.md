@@ -17,13 +17,13 @@ This extension will hide the GitHub restrictions warn.
 1. Directly install it from [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/freegithub/)
 
 2. Manually install it for Chrome:
--clone this repository
-'''bash
-git clone https://github.com/arsalanses/freegithub.git
-'''
--Navigate to `chrome://extensions/`.
--Turn `Developer mode` on.
--Click on the `Load unpacked` button and load the extensions folder.
+	1. clone this repository
+	'''bash
+	git clone https://github.com/arsalanses/freegithub.git
+	'''
+	2. Navigate to `chrome://extensions/`.
+	3. Turn `Developer mode` on.
+	4. Click on the `Load unpacked` button and load the extensions folder.
 
 ## Why this happend
 
