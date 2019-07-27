@@ -18,9 +18,9 @@ This extension will hide the GitHub restrictions warn.
 
 2. Manually install it for Chrome:
 	1. clone this repository
-	'''bash
+	```bash
 	git clone https://github.com/arsalanses/freegithub.git
-	'''
+	```
 	2. Navigate to `chrome://extensions/`.
 	3. Turn `Developer mode` on.
 	4. Click on the `Load unpacked` button and load the extensions folder.
