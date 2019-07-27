@@ -8,6 +8,9 @@
 ## What it does
 
 This extension will hide the GitHub restrictions warn.
+<div align="center">
+<img src='README/Screenshot.png' alt="Screenshot"><br>
+</div>
 
 ## Install
 
